@@ -57,12 +57,24 @@ body
         height rem(20px)
         fill accentDark
         margin rem(5px)
-    .icon-podcast
+    .icon-spotify
         float right
+        display inline-block
         width rem(30px)
-        height rem(5px)
-        fill accentDark
-        margin rem(5px)
+        height rem(30px)
+        cursor pointer
+        margin 0 0 0 0
+        +above(cut)
+            margin 0 rem(20px) 0 0
+    .icon-itunes
+        float right
+        display inline-block
+        width rem(30px)
+        height rem(30px)
+        cursor pointer
+        margin 0 0 0 0
+        +above(cut)
+            margin 20 rem(20px) 0 0
     .get-theme
         display none
         font-size rem(13px)
