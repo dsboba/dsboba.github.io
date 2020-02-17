@@ -40,7 +40,7 @@ It is so hard to navigate around this trail since the direction and the sign is 
     <td> <img src="../assets/img/travel/sunset_trail_4.jpg" alt="sunset_4" style="width: 250px;"/> </td>
 </tr></table>
 
-After the hike, my friends and I went to Kai Ramen in Alhambra to recharge. We ordered Kai's Yellow ramen which is spicy miso thick thonkotsu ramen, topped with cheese, pork chasu, flavored egg, corns, and scallions (see picture below). Pro tip: Leave a review in Yelp for a free egg or a soda.
+After the hike, my friends and I went to Kai Ramen in Alhambra to recharge. We ordered Kai's Yellow ramen which is spicy miso thick tonkotsu ramen, topped with cheese, pork chasu, flavored egg, corns, and scallions (see picture below). Pro tip: Leave a review in Yelp for a free egg or a soda.
 
 <figure>
     <img src="../assets/img/travel/ramen.jpg" width="50%">
