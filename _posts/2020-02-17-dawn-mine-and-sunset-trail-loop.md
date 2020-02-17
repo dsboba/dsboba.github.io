@@ -12,9 +12,9 @@ tags:
 author: mario
 paginate: true
 ---
-Hello! welcome to the travel blog. I am currently living in Los Angeles, California. One of my goal in the year of 2020 is to travel more hence I am starting to do 1 hike a week every Saturday aka #1hikeaweek. On February 16, my friend and I went to Dawn mine and sunset trail loop that is estimated for 6 miles.
+Hello! welcome to the travel blog. I am currently living in Los Angeles, California. One of my goal in the year of 2020 is to travel more hence I am starting to do 1 hike a week every Saturday aka **#1hikeaweek**. On February 16, my friend and I went to Dawn mine and sunset trail loop that is estimated for 6 miles.
 
-Within a half mile of hiking from the parking lot, we can see a really nice view like the one below.
+Within half mile of hiking from the parking lot, we can see a really nice view like the one below.
 
 <figure>
     <img src="../assets/img/travel/sunset_trail_1.jpg" width="80%">
