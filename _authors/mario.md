@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/profile_1.png
 name: mario
 display_name: Mario
 position: Host
