@@ -5,7 +5,7 @@ title: Classic Hollywood Hike
 subtitle:
 description:
 image: ../assets/img/travel/feature_img/hollywood_peak_1.jpg
-optimized_image:
+optimized_image: ../assets/img/travel/feature_img/opt_hollywood_peak_1.jpg
 category: travel
 tags:
     - travel

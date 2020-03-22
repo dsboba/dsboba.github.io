@@ -5,7 +5,7 @@ title: "Backbone and Mishe Mokwa Trails"
 subtitle:
 description:
 image: ../assets/img/travel/feature_img/mishe_mokwa_peak_4.jpg
-optimized_image:
+optimized_image: ../assets/img/travel/feature_img/opt_mishe_mokwa_peak_4.jpg
 category: travel
 tags:
     - travel

@@ -5,7 +5,7 @@ title: "Sturtevant and Hermit Falls"
 subtitle:
 description:
 image: ../assets/img/travel/feature_img/sturtevant_fall_1.jpg
-optimized_image:
+optimized_image: ../assets/img/travel/feature_img/opt_sturtevant_fall_1.jpg
 category: travel
 tags:
     - travel

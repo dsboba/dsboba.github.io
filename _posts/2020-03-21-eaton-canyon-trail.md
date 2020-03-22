@@ -5,7 +5,7 @@ title: "Eaton Canyon Trail"
 subtitle:
 description:
 image: ../assets/img/travel/feature_img/eaton_canyon.jpg
-optimized_image:
+optimized_image: ../assets/img/travel/feature_img/opt_eaton_canyon.jpg
 category: travel
 tags:
     - travel

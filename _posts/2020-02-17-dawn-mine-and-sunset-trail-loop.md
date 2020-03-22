@@ -5,7 +5,7 @@ title: Dawn Mine and Sunset Trail Loop
 subtitle:
 description:
 image: ../assets/img/travel/feature_img/sunset_trail_3.jpg
-optimized_image:
+optimized_image: ../assets/img/travel/feature_img/opt_sunset_trail_3.jpg
 category: travel
 tags:
     - travel
