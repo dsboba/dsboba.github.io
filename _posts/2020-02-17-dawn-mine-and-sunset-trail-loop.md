@@ -29,7 +29,7 @@ There are not many people on the trail and we stepped through many stones as wel
 After a couple of miles in, one of the spots to see for this trail is the Dawn mine as shown below.
 
 <figure>
-    <img src="../assets/img/travel/dawn_mine.jpg" width="60%">
+    <img src="../assets/img/travel/dawn_mine_sunset_trail/dawn_mine.jpg" width="60%">
     <figcaption>Dawn Mine</figcaption>
 </figure>
 
