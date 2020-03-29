@@ -39,7 +39,7 @@ Of course, we have to give some love to the view of the trail path and the city 
     <td> <img src="../assets/img/travel/edison_trail/edison_6.jpg" alt="city" style="width: 250px;"/> </td>
 </tr></table>
 
-Even though the trail is estimated to be 1.3 miles, we somehow walked ~ 4 miles (according to my Samsung Health). The running joke among my friends is that my app would multiply the distance by 2. After the hike, I went to [Daiso](https://www.daisojapan.com/) to get a bowl, couple stainless steel chopstick, and air freshness (the beads kind if you know what I mean). 
+Even though the trail is estimated to be 1.3 miles, we somehow walked ~4 miles (according to my Samsung Health). The running joke among my friends is that my app would multiply the distance by 2 or 3 or 4. After the hike, I went to [Daiso](https://www.daisojapan.com/) to get a bowl, couple stainless steel chopstick, and air freshner (the beads kind if you know what I mean). 
 
 Afterward, we proceed to a famous bubble tea shop called [Wushiland](https://www.yelp.com/biz/wushiland-boba-san-gabriel) to get the milk tea with grass jelly (I would like to think that I earned it after a somewhat warm day). My friend likes the fruity drink and so he got the orange yogurt.
 
