@@ -56,3 +56,4 @@ Unfortunately near the branching of the road, we went to the right instead of th
 <img src="../assets/img/travel/strawberry_trail/jamba.jpg" style="height: 300px;" alt="fish noodle soup"/>
 
 With that, we conclude the **#1hikeaweek**. Until next time, **บาย**!
+
