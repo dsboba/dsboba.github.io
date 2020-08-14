@@ -9,6 +9,7 @@ optimized_image: ../assets/img/travel/feature_img/opt_parker_mesa.jpg
 category: travel
 tags:
     - travel
+    - 1hikeaweek
 author: mario
 paginate: true
 ---
