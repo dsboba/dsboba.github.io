@@ -52,4 +52,4 @@ Hmm, where are we? Oh yes, the Sunset Ridge trail.. Do visit this trail because 
 Last but not least, I saw this dude on the way down from the trails (thought I would share it with you all).
 <img src="../assets/img/travel/sunset_ridge/sunset_ridge_9.jpg" style="height: 300px;" alt="snake"/>
 
-With that, we conclude the **#1hikeaweek**, Until next time, **adiaŭ**!
+With that, we conclude the **#1hikeaweek**. Until next time, **adiaŭ**!
