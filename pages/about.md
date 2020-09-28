@@ -10,4 +10,4 @@ menu: true
 
 # About
 
-DSBoba serves podcast and tutorial videos on Spotify, Itunes, and Youtube. In addition, the initiatives such as #1hikeaweek, #1bookamonth, and so on are also posted on the site. We welcome any feedback and feel free to contact us through Facebook, Twitter, Instagram, and Medium.
+DSBoba serves as my own initiatives such as #1hikeaweek, #1bookamonth, and so on.
